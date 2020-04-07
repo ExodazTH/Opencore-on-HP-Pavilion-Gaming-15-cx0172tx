@@ -1,5 +1,7 @@
 # Opencore-on-HP-Pavilion-Gaming-15-cx0172tx
 
+![alt text](https://i.imgur.com/Zp1x3M9.png)
+
  ## README
 
 
