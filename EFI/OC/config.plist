@@ -1091,19 +1091,19 @@
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>C02C4LYCJHCCH4RA8</string>
+			<string>C02C4LYCXCXCH4RA8</string>
 			<key>ROM</key>
 			<data>
-			sAzRfv1k
+			xxxxxx
 			</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>MacBookPro15,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02C4LYCJHCC</string>
+			<string>C02C4LYXCXCC</string>
 			<key>SystemUUID</key>
-			<string>BFF24DB9-21C6-4B83-BEEE-9B7B4E4F9045</string>
+			<string>BFF24DB9-21C6-4B83-BEEE-xxxxxxxx</string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -1118,10 +1118,10 @@
 			P/8f/wAAAAA=
 			</data>
 			<key>MLB</key>
-			<string>C02C4LYCJHCCH4RA8</string>
+			<string>C02C4LYCXCXCH4RA8</string>
 			<key>ROM</key>
 			<data>
-			sAzRfv1k
+			xxxxxx
 			</data>
 		</dict>
 		<key>UpdateDataHub</key>
